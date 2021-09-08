@@ -1,2 +1,2 @@
-# project
+#Java project
 biginners code
